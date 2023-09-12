@@ -1,0 +1,2222 @@
+[
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "0",
+        "away_score": "3",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "0",
+        "away_score": "3",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "1",
+        "away_score": "4",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "1",
+        "away_score": "4",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "4",
+        "away_score": "0",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "1",
+        "away_score": "3",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "0",
+        "away_score": "4",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "0",
+        "away_score": "3",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "4",
+        "away_score": "0",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "5",
+        "away_score": "1",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "2",
+        "away_score": "3",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "0",
+        "away_score": "4",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "4",
+        "away_score": "1",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "4",
+        "away_score": "1",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "1",
+        "away_score": "4",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "3",
+        "away_score": "2",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "4",
+        "away_score": "0",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "2",
+        "away_score": "3",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "3",
+        "away_score": "5",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "4",
+        "away_score": "1",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "0",
+        "away_score": "3",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "3",
+        "away_score": "2",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "5",
+        "away_score": "1",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "4",
+        "away_score": "0",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "3",
+        "away_score": "2",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "3",
+        "away_score": "2",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "4",
+        "away_score": "1",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "3",
+        "away_score": "4",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "2",
+        "away_score": "3",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "2",
+        "away_score": "3",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "4",
+        "away_score": "0",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "6",
+        "away_score": "2",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "4",
+        "away_score": "2",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "2",
+        "away_score": "3",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "2",
+        "away_score": "3",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "2",
+        "away_score": "3",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "3",
+        "away_score": "2",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "6",
+        "away_score": "1",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "1",
+        "away_score": "3",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "1",
+        "away_score": "3",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "0",
+        "away_score": "3",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "0",
+        "away_score": "4",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "6",
+        "away_score": "0",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "2",
+        "away_score": "3",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "3",
+        "away_score": "3",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "3",
+        "away_score": "2",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "4",
+        "away_score": "2",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "4",
+        "away_score": "2",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "4",
+        "away_score": "0",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "4",
+        "away_score": "2",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "4",
+        "away_score": "0",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "2",
+        "away_score": "5",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "0",
+        "away_score": "2",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "5",
+        "away_score": "1",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "3",
+        "away_score": "2",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "5",
+        "away_score": "1",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "0",
+        "away_score": "3",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "2",
+        "away_score": "4",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "RCD Espanyol de Barcelona"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "RC Celta",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Girona FC"
+    },
+    {
+        "home_team": "Real Sociedad",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "UD Almería"
+    },
+    {
+        "home_team": "Real Valladolid CF",
+        "home_score": "3",
+        "away_score": "1",
+        "away_team": "FC Barcelona"
+    },
+    {
+        "home_team": "Elche CF",
+        "home_score": "1",
+        "away_score": "1",
+        "away_team": "Sevilla FC"
+    },
+    {
+        "home_team": "Villarreal CF",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Cádiz CF"
+    },
+    {
+        "home_team": "Real Madrid",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Rayo Vallecano"
+    },
+    {
+        "home_team": "Real Betis",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Getafe CF"
+    },
+    {
+        "home_team": "RCD Espanyol de Barcelona",
+        "home_score": "3",
+        "away_score": "3",
+        "away_team": "Atlético de Madrid"
+    },
+    {
+        "home_team": "RCD Mallorca",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "Valencia CF"
+    },
+    {
+        "home_team": "CA Osasuna",
+        "home_score": "2",
+        "away_score": "0",
+        "away_team": "Athletic Club"
+    },
+    {
+        "home_team": "Sevilla FC",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Real Madrid"
+    },
+    {
+        "home_team": "Athletic Club",
+        "home_score": "0",
+        "away_score": "1",
+        "away_team": "Elche CF"
+    },
+    {
+        "home_team": "Atlético de Madrid",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Real Sociedad"
+    },
+    {
+        "home_team": "FC Barcelona",
+        "home_score": "3",
+        "away_score": "0",
+        "away_team": "RCD Mallorca"
+    },
+    {
+        "home_team": "Getafe CF",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "CA Osasuna"
+    },
+    {
+        "home_team": "Cádiz CF",
+        "home_score": "1",
+        "away_score": "0",
+        "away_team": "RC Celta"
+    },
+    {
+        "home_team": "Rayo Vallecano",
+        "home_score": "2",
+        "away_score": "1",
+        "away_team": "Villarreal CF"
+    },
+    {
+        "home_team": "UD Almería",
+        "home_score": "0",
+        "away_score": "0",
+        "away_team": "Real Valladolid CF"
+    },
+    {
+        "home_team": "Girona FC",
+        "home_score": "1",
+        "away_score": "2",
+        "away_team": "Real Betis"
+    },
+    {
+        "home_team": "Valencia CF",
+        "home_score": "2",
+        "away_score": "2",
+        "away_team": "RCD Espanyol de Barcelona"
+    }
+]
